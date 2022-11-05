@@ -1,9 +1,9 @@
 <h1 aling="center">NLW #10 Copa</h1>
 
 <p aling="center">
-    <a href="#-tecnologias">Tecnologias</a>&nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;
-    <a href="#-projeto">Projeto</a>&nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;
-    <a href="#-layout">Layout</a>&nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;
+    <a href="#tecnologias">Tecnologias</a>&nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;
+    <a href="#projeto">Projeto</a>&nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;
+    <a href="#layout">Layout</a>&nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;
     <a href="#memo-licença">Licença</a>
 </p>
 
